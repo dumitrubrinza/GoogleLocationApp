@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="button2">Button 2</string>
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="google_maps_key"></string>
+    <string name="google_app_id">1:382240128521:android:e37db0f665f22ece</string>
+
+
+
+</resources>
